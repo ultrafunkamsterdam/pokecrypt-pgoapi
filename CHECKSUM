@@ -1,0 +1,8 @@
+SHA1
+ea6e381ef0c217fec3c239a743882afee19d1d60  encrypt32.dll
+91c7a61ebe923bdb813efb546fb55facea814735  encrypt64.dll
+ae17138b3896e1a558b8da17493d0a1c67018694  libencrypt-freebsd-64.so
+ac1eef77c4d428c4751776d33e7c1e72c68385ca  libencrypt-linux-arm-32.so
+4ad6e5de7adec1ed8c1dc53246372cae071a5a0f  libencrypt-linux-x86-32.so
+86845a79c027636dacfb48d5e3a97bae302619e6  libencrypt-linux-x86-64.so
+fac956dc16248df445e2547a6b7fcd2a7ae2bab5  libencrypt-osx-64.so
